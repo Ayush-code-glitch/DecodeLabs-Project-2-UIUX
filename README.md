@@ -22,3 +22,6 @@ Improve user flow and information hierarchy while maintaining a clean layout.
 - Low-Fidelity Wireframe
 - Black, White and Grey colors only
 - Focus on User Experience and User Flow
+
+## Degined By
+- Ayush Kapadia
